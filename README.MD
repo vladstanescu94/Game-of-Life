@@ -1,3 +1,5 @@
 Game of Life
-Stanescu Vlad , Bogdan Florea
+Vlad Stanescu, Bogdan Florea
+
 Based on Coding Train Game of Life
+https://www.youtube.com/watch?v=FWSR_7kZuYg
