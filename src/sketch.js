@@ -31,10 +31,11 @@ function setup() {
         }
     }
     button = createButton("Glider");
-    button.mousePressed(gunGlider)
+    button.mousePressed(gunGlider);
     background(0);
-    randomizeCells(board);  
+    //randomizeCells(board);  
 }
+
 
 function gunGlider(){
 
