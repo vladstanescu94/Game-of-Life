@@ -21,5 +21,5 @@
  - [University](http://csac.ulbsibiu.ro/)
 
 ## Authors
-  -[Vlad Stanescu](https://github.com/vladstanescu94)
-  -[Bogdan Florea](https://github.com/BogdanFlorea97)
+  - [Vlad Stanescu](https://github.com/vladstanescu94)
+  - [Bogdan Florea](https://github.com/BogdanFlorea97)
